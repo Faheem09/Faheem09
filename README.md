@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Faheem09
-- 👀 I’m interested in practicing python and C#
+- 👀 I’m interested in practicing python C++ and C#
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on AI / ML AutoML
 - 📫 How to reach me email: FFaheem@gmail.com
